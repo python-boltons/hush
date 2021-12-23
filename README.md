@@ -43,6 +43,8 @@ you through the process.
   interested in contributing to this project.
 * [Create a New Issue][13]: Create a new GitHub issue for this project.
 * [Documentation][1]: This project's full documentation.
+* [Usage][14]: How do I use Hush?
+* [Writing Plugins][15]: How do I write my own plugins for Hush?
 
 
 [1]: https://bolton-hush.readthedocs.io/en/latest
@@ -58,3 +60,5 @@ you through the process.
 [11]: https://github.com/pypa/pipx
 [12]: https://github.com/cruft/cruft
 [13]: https://github.com/python-boltons/hush/issues/new/choose
+[14]: https://bolton-hush.readthedocs.io/en/latest/usage.html
+[15]: https://bolton-hush.readthedocs.io/en/latest/plugins.html
