@@ -1,4 +1,8 @@
-"""A Python library that helps manage secrets using tools specified by plugin hooks."""
+"""hush package
+
+A Python library that helps manage secrets using tools specified by plugin
+hooks.
+"""
 
 import logging as _logging
 
